@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1367610998 source:c:\users\computersuperuser\desktop\producerconsumer\producerconsumer.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+
+1367612372 source:d:\ide\myprojects\producerconsumer\producerconsumer.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+
